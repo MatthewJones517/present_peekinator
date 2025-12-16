@@ -1,6 +1,8 @@
 # Present Peekinator
+[![Thumbnail for Present Peekinator Video. Man looking into present. An alarm is going off and he's been notified a video has been recorded](https://github.com/MatthewJones517/present_peekinator/blob/main/screenshots/Thumbnail.png?raw=true)](https://youtu.be/KBeqRLDe_jw)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KBeqRLDe_jw?si=iEAXToPvbQtAq_FQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Watch on YouTube](https://youtu.be/KBeqRLDe_jw)
+
 
 ## What is This?
 
