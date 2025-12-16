@@ -1,0 +1,19 @@
+.vscode/
+
+# IDE and OS files
+.idea/
+*.swp
+.DS_Store
+
+# Local configuration files with sensitive paths
+**/local.properties
+
+# Environment and secret files
+.env
+.env.*
+*.local
+
+# Firebase (optional - uncomment if you want to keep your Firebase config private)
+# These are generally safe to publish, but some prefer to keep them private
+# naughty_list_notifier/android/app/google-services.json
+# naughty_list_notifier/ios/Runner/GoogleService-Info.plist

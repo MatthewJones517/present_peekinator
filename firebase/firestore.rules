@@ -1,0 +1,22 @@
+rules_version='2'
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Allow public read access to all documents
+    match /{document=**} {
+      allow read: if true;
+    }
+    
+    // Deny all client writes - only Cloud Functions (using Admin SDK) can write
+    // Cloud Functions bypass security rules, so they can still write
+    match /videos/{videoId} {
+      allow write: if false; // Only Cloud Functions can write
+      allow read: if true;   // Public read access
+    }
+    
+    // Deny writes to all other collections from clients
+    match /{document=**} {
+      allow write: if false; // Only Cloud Functions can write
+    }
+  }
+}
