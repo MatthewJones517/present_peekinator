@@ -39,9 +39,9 @@ This is a pretty simple Flutter app. The home screen has a list of "Peekers". Ta
 
 I'm disappointed this didn't get more screen time in the video, so here's some screenshots. 
 
-![https://github.com/MatthewJones517/present_peekinator/blob/main/screenshots/list-view.png?raw=true](List view showing various present peekers)
+![List view showing various present peekers](https://github.com/MatthewJones517/present_peekinator/blob/main/screenshots/list-view.png?raw=true)
 
-![https://github.com/MatthewJones517/present_peekinator/blob/main/screenshots/video-view.png?raw=true](Video of present peeker opening the package)
+![Video of present peeker opening the package](https://github.com/MatthewJones517/present_peekinator/blob/main/screenshots/list-view.png?raw=true)
 
 ### Thanks for Watching!
 
