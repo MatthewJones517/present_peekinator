@@ -1,12 +1,10 @@
 # Present Peekinator
 [![Thumbnail for Present Peekinator Video. Man looking into present. An alarm is going off and he's been notified a video has been recorded](https://github.com/MatthewJones517/present_peekinator/blob/main/screenshots/Thumbnail.png?raw=true)](https://youtu.be/KBeqRLDe_jw)
 
-[Watch on YouTube](https://youtu.be/KBeqRLDe_jw)
-
 
 ## What is This?
 
-We all know someone who peeks at their Christmas presents early. This year I decided to take matters into my own hands. I created the most over-engineered present protection system ever! 
+We all know someone who peeks at their Christmas presents early. This year I decided to take matters into my own hands. I created the most over-engineered present protection system ever! [Check it out on YouTube](https://youtu.be/KBeqRLDe_jw).
 
 When someone peeks at their present:
 
