@@ -41,7 +41,7 @@ I'm disappointed this didn't get more screen time in the video, so here's some s
 
 ![List view showing various present peekers](https://github.com/MatthewJones517/present_peekinator/blob/main/screenshots/list-view.png?raw=true)
 
-![Video of present peeker opening the package](https://github.com/MatthewJones517/present_peekinator/blob/main/screenshots/list-view.png?raw=true)
+![Video of present peeker opening the package](https://github.com/MatthewJones517/present_peekinator/blob/main/screenshots/video-view.png?raw=true)
 
 ### Thanks for Watching!
 
